@@ -10,5 +10,8 @@
 	"depends": [],
 	"runtimes": [],
 	"permissions": [],
-	"config": {}
+	"config": {},
+	"bundle": [
+		"onetype/styles"
+	]
 }
